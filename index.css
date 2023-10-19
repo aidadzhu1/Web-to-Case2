@@ -1,0 +1,12 @@
+input{height: 1cm; width: 10cm; margin-left: 1cm; }
+label{margin-left: 1cm;}
+select{margin-left: 1cm;}
+textarea{margin-left: 1cm;}
+div{height: 16cm; width: 12cm; border:  5px solid rgb(36, 171, 189); margin-left: 13.5cm; margin-top: 3.5cm; border-radius: 5%; background-color: white;}
+body {
+  background-image: url('https://www.rrha.com/wp-content/themes/rrha2019/img/default-rrha-communities.png');
+  background-size: cover; /* You can adjust this to 'contain', '100% 100%', etc. based on your preference */
+}
+h1{text-align: center;}
+.sumbit{background-color: rgb(36, 171, 189); height: 1.5cm;  border-color: rgb(36, 171, 189);}
+.src{height: 100%; width: 100%;}
